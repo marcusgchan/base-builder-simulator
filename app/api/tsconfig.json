@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+     "module": "nodenext",
+     "target": "es2017"
+   },
+   "extends": "@repo/typescript-config/api.json",
+   "strict": true,
+   "include": ["./src/**/*"]
+ }
+
